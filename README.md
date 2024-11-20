@@ -6,8 +6,7 @@ This repository provides a complete pipeline for penguin species classification 
 - **Exploratory Data Analysis (EDA):** 
   Gain insights into the dataset through visualizations such as pair plots, histograms, and boxplots.
   
-- **Feature Engineering:**
-  Enhance model performance with interaction terms, polynomial features, and clustering.
+- **Feature Selection**
 
 - **Machine Learning Models:**
   Train and evaluate multiple models:
